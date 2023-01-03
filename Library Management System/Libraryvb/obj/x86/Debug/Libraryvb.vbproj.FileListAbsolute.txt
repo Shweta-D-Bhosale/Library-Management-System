@@ -1,0 +1,83 @@
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.Form1.resources
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.Resources.resources
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\bin\Debug\Libraryvb.exe
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\bin\Debug\Libraryvb.pdb
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\bin\Debug\Libraryvb.xml
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.exe
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.xml
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.pdb
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.Form2.resources
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.about.resources
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.Borrow.resources
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.Book_Entry.resources
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.report.resources
+C:\Users\DonzKharz\Desktop\Project\Library\Libraryvb\Libraryvb\obj\x86\Debug\Libraryvb.student.resources
+C:\Users\DonzKharz\Desktop\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.exe
+C:\Users\DonzKharz\Desktop\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.xml
+C:\Users\DonzKharz\Desktop\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.pdb
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.exe
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.xml
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.pdb
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\bin\Debug\Libraryvb.exe
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\bin\Debug\Libraryvb.pdb
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\bin\Debug\Libraryvb.xml
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.Book_Entry.resources
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.Borrow.resources
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.Form1.resources
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.Form2.resources
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.Resources.resources
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.report.resources
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\Libraryvb.student.resources
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DonzKharz\Desktop\Folder\To be Review\All Project\Visual Studio Project\Library Management System Mebarika Bamon\Libraryvb\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Visual Studio Project\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.exe
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Visual Studio Project\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.xml
+D:\Click Me\PROJECT AND TORTURIAL\Vs Project\Visual Studio Project\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.pdb
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.exe
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.xml
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.pdb
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\bin\Debug\Libraryvb.exe
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\bin\Debug\Libraryvb.pdb
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\bin\Debug\Libraryvb.xml
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Book_Entry.resources
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Borrow.resources
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Form1.resources
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Form2.resources
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Resources.resources
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.report.resources
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.student.resources
+C:\Users\Deepak\Downloads\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.vbproj.GenerateResource.Cache
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.exe
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.xml
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.pdb
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\bin\Debug\Libraryvb.exe
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\bin\Debug\Libraryvb.pdb
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\bin\Debug\Libraryvb.xml
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Book_Entry.resources
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Borrow.resources
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Form1.resources
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Form2.resources
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Resources.resources
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.report.resources
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.student.resources
+G:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.vbproj.GenerateResource.Cache
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\bin\Debug\Libraryvb.exe
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\bin\Debug\Libraryvb.pdb
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\bin\Debug\Libraryvb.xml
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.vbproj.AssemblyReference.cache
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Book_Entry.resources
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Borrow.resources
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Form1.resources
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Form2.resources
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.Resources.resources
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.report.resources
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.student.resources
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.vbproj.GenerateResource.cache
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.vbproj.CoreCompileInputs.cache
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.exe
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.xml
+F:\Sy 4 th sem\VB . net\Library Management System\Libraryvb\obj\x86\Debug\Libraryvb.pdb
